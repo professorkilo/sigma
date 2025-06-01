@@ -4044,3 +4044,17 @@ https://learn.microsoft.com/en-us/windows/win32/secauthz/security-descriptor-def
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#application-configuration-changes
 https://web.archive.org/web/20230420013146/http://security-research.dyndns.org/pub/slides/FIRST2017/FIRST-2017_Tom-Ueltschi_Sysmon_FINAL_notes.pdf
 https://web.archive.org/web/20230329172447/https://blog.menasec.net/2019/02/threat-hunting-24-microsoft-windows-dns.html
+https://www.cve.org/CVERecord?id=CVE-2024-1709
+https://gtfobins.github.io/gtfobins/capsh/#shell
+https://www.trendmicro.com/en_us/research/25/c/socgholishs-intrusion-techniques-facilitate-distribution-of-rans.html
+https://learn.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations
+https://www.picussecurity.com/resource/blog/as-rep-roasting-attack-explained-mitre-attack-t1558.004
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.4
+https://ss64.com/osx/sw_vers.html
+https://news.sophos.com/en-us/2024/08/07/sophos-mdr-hunt-tracks-mimic-ransomware-campaign-against-organizations-in-india/
+https://www.microsoft.com/en-us/security/blog/2024/05/15/threat-actors-misusing-quick-assist-in-social-engineering-attacks-leading-to-ransomware/
+https://www.elastic.co/guide/en/security/current/potential-non-standard-port-ssh-connection.html
+https://nvd.nist.gov/vuln/detail/CVE-2025-30406
+https://labs.watchtowr.com/palo-alto-putting-the-protecc-in-globalprotect-cve-2024-3400/
+https://web.archive.org/web/20230329154538/https://blog.menasec.net/2019/07/interesting-difr-traces-of-net-clr.html
+https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::SecurityPage_AutoDetect
