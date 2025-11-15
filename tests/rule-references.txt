@@ -450,6 +450,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/API/API_PutBucketWebsite.html
 https://docs.aws.amazon.com/AmazonS3/latest/API/API_RestoreObject.html
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/setting-repl-config-perm-overview.html
 https://docs.aws.amazon.com/awscloudtrail/latest/userguide/best-practices-security.html
+https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-event-reference-aws-console-sign-in-events.html
 https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_DisableEbsEncryptionByDefault.html
 https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_ImportKeyPair.html
 https://docs.aws.amazon.com/cli/latest/reference/securityhub/
@@ -470,10 +471,12 @@ https://docs.aws.amazon.com/singlesignon/latest/userguide/app-enablement.html
 https://docs.aws.amazon.com/singlesignon/latest/userguide/sso-info-in-cloudtrail.html
 https://docs.aws.amazon.com/STS/latest/APIReference/API_AssumeRole.html
 https://docs.aws.amazon.com/STS/latest/APIReference/API_AssumeRoleWithSAML.html
+https://docs.aws.amazon.com/STS/latest/APIReference/API_GetCallerIdentity.html
 https://docs.aws.amazon.com/STS/latest/APIReference/API_GetSessionToken.html
 https://docs.aws.amazon.com/vm-import/latest/userguide/vmexport.html#export-instance
 https://docs.djangoproject.com/en/1.11/ref/exceptions/
 https://docs.djangoproject.com/en/1.11/topics/logging/#django-security
+https://docs.fortinet.com/document/fortigate/7.6.4/cli-reference/328136827/config-user-group
 https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners#about-self-hosted-runners
 https://docs.github.com/en/code-security/dependabot/dependabot-alerts/about-dependabot-alerts
 https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise
@@ -1558,6 +1561,7 @@ https://github.com/rsmudge/Malleable-C2-Profiles/blob/26323784672913923d20c5a638
 https://github.com/rsmudge/Malleable-C2-Profiles/blob/26323784672913923d20c5a638c6ca79459e8529/normal/ocsp.profile
 https://github.com/rsmudge/Malleable-C2-Profiles/blob/26323784672913923d20c5a638c6ca79459e8529/normal/onedrive_getonly.profile
 https://github.com/rsp/scripts/blob/c8bb272d68164a9836e4f273d8f924927f39b8c6/externalip-benchmark.md
+https://github.com/rtecCyberSec/SpeechRuntimeMove
 https://github.com/rvrsh3ll/Misc-Powershell-Scripts/blob/6f23bb41f9675d7e2d32bacccff75e931ae00554/OfficeMemScraper.ps1
 https://github.com/S12cybersecurity/RDPCredentialStealer
 https://github.com/S12cybersecurity/RDPCredentialStealer/blob/1b8947cdd065a06c1b62e80967d3c7af895fcfed/APIHookInjectorBin/APIHookInjectorBin/Inject.h#L25
@@ -1888,6 +1892,7 @@ https://learn.microsoft.com/en-us/dotnet/core/diagnostics/dotnet-dump#dotnet-dum
 https://learn.microsoft.com/en-us/dotnet/core/runtime-config/debugging-profiling
 https://learn.microsoft.com/en-us/dotnet/framework/tools/installutil-exe-installer-tool
 https://learn.microsoft.com/en-us/dotnet/framework/tools/regsvcs-exe-net-services-installation-tool
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#appid-uri-added-modified-or-removed
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#application-authentication-flows
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#application-configuration-changes
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#end-user-consent
@@ -1918,6 +1923,7 @@ https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protectio
 https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#leaked-credentials
 https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#malicious-ip-address
 https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#malware-linked-ip-address-deprecated
+https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#password-spray
 https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#possible-attempt-to-access-primary-refresh-token-prt
 https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#suspicious-browser
 https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#suspicious-inbox-forwarding
@@ -1944,6 +1950,7 @@ https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-fscc/c54dec26-1
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-pan/e44d984c-07d3-414c-8ffc-f8c8ad8512a8
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-par/93d1915d-4d9f-4ceb-90a7-e8f2a59adc29
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rprn/4464eaf0-f34f-40d5-b970-736437a21913
+https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rprn/d42db7d5-f141-4466-8f47-0a4be14e2fc1
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rrp/0fa3191d-bb79-490a-81bd-54c2601b7a78
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-srvs/02b1f559-fda2-4ba3-94c2-806eb2777183
 https://learn.microsoft.com/en-us/outlook/troubleshoot/security/information-about-email-security-settings
@@ -2008,6 +2015,7 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/se
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4706
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4743
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4794
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-5038
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-5140
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-6281
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-6416
@@ -2117,6 +2125,7 @@ https://learn.microsoft.com/en-us/windows/win32/api/shobjidl_core/nn-shobjidl_co
 https://learn.microsoft.com/en-us/windows/win32/api/wincred/nf-wincred-creduipromptforcredentialsa
 https://learn.microsoft.com/en-us/windows/win32/api/winevt/
 https://learn.microsoft.com/en-us/windows/win32/appxpkg/troubleshooting
+https://learn.microsoft.com/en-us/windows/win32/debug/configuring-automatic-debugging
 https://learn.microsoft.com/en-us/windows/win32/eventlog/eventlog-key
 https://learn.microsoft.com/en-us/windows/win32/intl/code-page-identifiers
 https://learn.microsoft.com/en-us/windows/win32/msi/event-logging
@@ -2890,11 +2899,13 @@ https://tria.ge/211119-gs7rtshcfr/behavioral2 [Lokibot sample from Nov 2021]
 https://tria.ge/220422-1nnmyagdf2/
 https://tria.ge/220422-1pw1pscfdl/
 https://tria.ge/231004-tp8k6sch9t/behavioral2
+https://tria.ge/231212-r1bpgaefar/behavioral2
 https://tria.ge/240123-rapteaahhr/behavioral1
 https://tria.ge/240225-jlylpafb24/behavioral1/analog?main_event=Registry&op=SetValueKeyInt
 https://tria.ge/240226-fhbe7sdc39/behavioral1
 https://tria.ge/240301-rk34sagf5x/behavioral2
 https://tria.ge/240307-1hlldsfe7t/behavioral2/analog?main_event=Registry&op=SetValueKeyInt
+https://tria.ge/241015-l98snsyeje/behavioral2
 https://trustedsec.com/blog/adexplorer-on-engagements
 https://trustedsec.com/blog/oops-i-udld-it-again
 https://trustedsec.com/blog/specula-turning-outlook-into-a-c2-with-one-registry-change
@@ -3350,11 +3361,13 @@ https://vulmon.com/exploitdetails?qidtp=exploitdb&qid=48224
 https://vulncheck.com/blog/real-world-cve-2023-43261
 https://vx-underground.org/archive/Symantec/windows-vista-network-attack-07-en.pdf
 https://wazuh.com/blog/detecting-xll-files-used-for-dropping-fin7-jssloader-with-wazuh/
+https://web.archive.org/web/20160727113019/https://answers.microsoft.com/en-us/protect/forum/mse-protect_scanning/microsoft-antimalware-has-removed-history-of/f15af6c9-01a9-4065-8c6c-3f2bdc7de45e
 https://web.archive.org/web/20160928212230/https://www.adaptforward.com/2016/09/using-netshell-to-execute-evil-dlls-and-persist-on-a-host/
 https://web.archive.org/web/20170319121015/http://www.threatgeek.com/2017/03/widespread-exploitation-attempts-using-cve-2017-5638.html
 https://web.archive.org/web/20170715043507/http://www.exploit-monday.com/2016/08/windbg-cdb-shellcode-runner.html
 https://web.archive.org/web/20171001085340/https://subt0x10.blogspot.com/2017/04/bypass-application-whitelisting-script.html
 https://web.archive.org/web/20171113231705/https://www.optiv.com/blog/post-exploitation-using-netntlm-downgrade-attacks
+https://web.archive.org/web/20180203014709/https://blog.alsid.eu/dcshadow-explained-4510f52fc19d?gi=c426ac876c48
 https://web.archive.org/web/20180331144337/https://www.fireeye.com/blog/threat-research/2018/03/sanny-malware-delivery-method-updated-in-recently-observed-attacks.html
 https://web.archive.org/web/20180402134442/https://nyotron.com/wp-content/uploads/2018/03/Nyotron-OilRig-Malware-Report-March-2018C.pdf
 https://web.archive.org/web/20180718061628/https://securitybytes.io/blue-team-fundamentals-part-two-windows-processes-759fe15965e2
@@ -3884,6 +3897,7 @@ https://www.rapid7.com/blog/post/2023/01/19/etr-exploitation-of-control-web-pane
 https://www.rapid7.com/blog/post/2023/02/07/etr-cve-2022-21587-rapid7-observed-exploitation-of-oracle-e-business-suite-vulnerability/
 https://www.rapid7.com/blog/post/2023/06/01/rapid7-observed-exploitation-of-critical-moveit-transfer-vulnerability/
 https://www.rapid7.com/blog/post/2023/10/25/etr-cve-2023-4966-exploitation-of-citrix-netscaler-information-disclosure-vulnerability/
+https://www.rapid7.com/blog/post/tr-crimson-collective-a-new-threat-group-observed-operating-in-the-cloud/
 https://www.rarlab.com/vuln_rev3_names.html
 https://www.real-sec.com/2019/04/bypassing-network-restrictions-through-rdp-tunneling/
 https://www.reddit.com/r/crowdstrike/comments/125r3uu/20230329_situational_awareness_crowdstrike/
@@ -3897,6 +3911,7 @@ https://www.roboform.com/
 https://www.sandflysecurity.com/blog/bpfdoor-an-evasive-linux-backdoor-technical-analysis/
 https://www.sans.edu/cyber-research/from-crash-compromise-unlocking-potential-windows-crash-dumps-offensive-security/
 https://www.sans.org/blog/defending-against-scattered-spider-and-the-com-with-cybercrime-intelligence/
+https://www.sans.org/blog/protecting-privileged-domain-accounts-lm-hashes-the-good-the-bad-and-the-ugly/
 https://www.sans.org/blog/red-team-tactics-hiding-windows-services/
 https://www.sans.org/blog/wmic-for-incident-response/
 https://www.sans.org/cyber-security-summit/archives
