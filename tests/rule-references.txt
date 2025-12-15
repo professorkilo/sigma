@@ -103,6 +103,7 @@ https://app.any.run/tasks/4bc9860d-ab51-4077-9e09-59ad346b92fd/
 https://app.any.run/tasks/512c1352-6380-4436-b27d-bb62f0c020d6/
 https://app.any.run/tasks/51e7185c-52d7-4efb-ac0d-e86340053473/
 https://app.any.run/tasks/579e7587-f09d-4aae-8b07-472833262965
+https://app.any.run/tasks/5c16b4db-4b36-4039-a0ed-9b09abff8be2
 https://app.any.run/tasks/61a296bb-81ad-4fee-955f-3b399f4aaf4b
 https://app.any.run/tasks/6217d77d-3189-4db2-a957-8ab239f3e01e
 https://app.any.run/tasks/62bb01ae-25a4-4180-b278-8e464a90b8d7/
@@ -395,6 +396,7 @@ https://cydefops.com/devtunnels-unleashed
 https://cydefops.com/vscode-data-exfiltration
 https://darkdefender.medium.com/windows-10-mail-app-forensics-39025f5418d2
 https://dataconomy.com/2023/10/23/okta-data-breach/
+https://dear-territory-023.notion.site/WebDav-Share-Testing-e4950fa0c00149c3aa430d779b9b1d0f?pvs=4
 https://decoded.avast.io/janvojtesek/raspberry-robins-roshtyak-a-little-lesson-in-trickery/
 https://decoded.avast.io/martinchlumecky/png-steganography
 https://decoded.avast.io/martinchlumecky/png-steganography/
@@ -474,6 +476,7 @@ https://docs.aws.amazon.com/STS/latest/APIReference/API_GetSessionToken.html
 https://docs.aws.amazon.com/vm-import/latest/userguide/vmexport.html#export-instance
 https://docs.djangoproject.com/en/1.11/ref/exceptions/
 https://docs.djangoproject.com/en/1.11/topics/logging/#django-security
+https://docs.fortinet.com/document/fortigate/7.6.4/cli-reference/328136827/config-user-group
 https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners#about-self-hosted-runners
 https://docs.github.com/en/code-security/dependabot/dependabot-alerts/about-dependabot-alerts
 https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise
@@ -1236,6 +1239,7 @@ https://github.com/rapid7/metasploit-framework/blob/d297adcebb5c1df6fe30b12ca79b
 https://github.com/rapid7/metasploit-framework/blob/eb6535009f5fdafa954525687f09294918b5398d/data/post/powershell/NTDSgrab.ps1
 https://github.com/rapid7/metasploit-framework/blob/eb6535009f5fdafa954525687f09294918b5398d/modules/exploits/multi/http/struts_code_exec_exception_delegator.rb
 https://github.com/rapid7/metasploit-framework/blob/eb6535009f5fdafa954525687f09294918b5398d/modules/post/windows/gather/ntds_grabber.rb
+https://github.com/rapid7/metasploit-framework/issues/11337
 https://github.com/rapid7/metasploit-framework/pull/17407
 https://github.com/redcanaryco/atomic-red-team/blob/02c7d02fe1f1feb0fc7944550408ea8224273994/atomics/T1112/T1112.md#atomic-test-63---disable-remote-desktop-anti-alias-setting-through-registry
 https://github.com/redcanaryco/atomic-red-team/blob/02c7d02fe1f1feb0fc7944550408ea8224273994/atomics/T1112/T1112.md#atomic-test-64---disable-remote-desktop-security-settings-through-registry
@@ -2072,6 +2076,7 @@ https://learn.microsoft.com/en-us/windows-server/administration/windows-commands
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks-create
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks-delete
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/secedit
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/set_1
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/shutdown
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-delete-systemstatebackup
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-start-backup
@@ -2117,6 +2122,7 @@ https://learn.microsoft.com/en-us/windows/win32/api/shobjidl_core/nn-shobjidl_co
 https://learn.microsoft.com/en-us/windows/win32/api/wincred/nf-wincred-creduipromptforcredentialsa
 https://learn.microsoft.com/en-us/windows/win32/api/winevt/
 https://learn.microsoft.com/en-us/windows/win32/appxpkg/troubleshooting
+https://learn.microsoft.com/en-us/windows/win32/debug/configuring-automatic-debugging
 https://learn.microsoft.com/en-us/windows/win32/eventlog/eventlog-key
 https://learn.microsoft.com/en-us/windows/win32/intl/code-page-identifiers
 https://learn.microsoft.com/en-us/windows/win32/msi/event-logging
@@ -2127,6 +2133,7 @@ https://learn.microsoft.com/en-us/windows/win32/secauthz/security-descriptor-def
 https://learn.microsoft.com/en-us/windows/win32/secauthz/sid-strings
 https://learn.microsoft.com/en-us/windows/win32/shell/app-registration
 https://learn.microsoft.com/en-us/windows/win32/shell/csidl
+https://learn.microsoft.com/en-us/windows/win32/shell/launch
 https://learn.microsoft.com/en-us/windows/win32/taskschd/daily-trigger-example--xml-
 https://learn.microsoft.com/en-us/windows/win32/wer/collecting-user-mode-dumps
 https://learn.microsoft.com/en-us/windows/win32/winrm/windows-remote-management-architecture
@@ -2601,6 +2608,7 @@ https://research.splunk.com/cloud/c783dd98-c703-4252-9e8a-f19d9f5c949e/
 https://research.splunk.com/cloud/e155876a-6048-11eb-ae93-0242ac130002/
 https://research.splunk.com/endpoint/07921114-6db4-4e2e-ae58-3ea8a52ae93f/
 https://research.splunk.com/endpoint/10399c1e-f51e-11eb-b920-acde48001122/
+https://research.splunk.com/endpoint/7215831c-8252-4ae3-8d43-db588e82f952
 https://research.splunk.com/endpoint/linux_doas_conf_file_creation/
 https://research.splunk.com/endpoint/linux_doas_tool_execution/
 https://research.splunk.com/endpoint/windows_possible_credential_dumping/
@@ -2847,6 +2855,7 @@ https://thedfirreport.com/2022/11/28/emotet-strikes-again-lnk-file-leads-to-doma
 https://thedfirreport.com/2023/01/09/unwrapping-ursnifs-gifts/
 https://thedfirreport.com/2023/02/06/collect-exfiltrate-sleep-repeat/
 https://thedfirreport.com/2023/03/06/2022-year-in-review/
+https://thedfirreport.com/2023/04/03/malicious-iso-file-leads-to-domain-wide-ransomware
 https://thedfirreport.com/2023/05/22/icedid-macro-ends-in-nokoyawa-ransomware/
 https://thedfirreport.com/2023/08/28/html-smuggling-leads-to-domain-wide-ransomware/
 https://thedfirreport.com/2023/10/30/netsupport-intrusion-results-in-domain-compromise/
@@ -3395,6 +3404,7 @@ https://web.archive.org/web/20220830122045/http://blog.talosintelligence.com/202
 https://web.archive.org/web/20220830134315/https://content.fireeye.com/apt-41/rpt-apt41/
 https://web.archive.org/web/20221019044836/https://nsudo.m2team.org/en-us/
 https://web.archive.org/web/20221026202428/https://gist.github.com/code-scrap/d7f152ffcdb3e0b02f7f394f5187f008
+https://web.archive.org/web/20221204161143/https://www.glitch-cat.com/p/green-lambert-and-attack
 https://web.archive.org/web/20230208123920/https://cyberwardog.blogspot.com/2017/03/chronicles-of-threat-hunter-hunting-for_22.html
 https://web.archive.org/web/20230329153811/https://blog.menasec.net/2019/02/threat-huting-10-impacketsecretdump.html
 https://web.archive.org/web/20230329155141/https://blog.menasec.net/2019/03/threat-hunting-26-remote-windows.html
@@ -3572,6 +3582,7 @@ https://www.elastic.co/guide/en/security/current/suspicious-cmd-execution-via-wm
 https://www.elastic.co/guide/en/security/current/uac-bypass-via-icmluautil-elevated-com-interface.html
 https://www.elastic.co/guide/en/security/current/uac-bypass-via-windows-firewall-snap-in-hijack.html#uac-bypass-via-windows-firewall-snap-in-hijack
 https://www.elastic.co/guide/en/security/current/unusual-child-process-of-dns-exe.html
+https://www.elastic.co/guide/en/security/current/unusual-file-modification-by-dns-exe.html
 https://www.elastic.co/guide/en/security/current/unusual-file-modification-by-dns.exe.html
 https://www.elastic.co/guide/en/security/current/unusual-parent-process-for-cmd.exe.html
 https://www.elastic.co/guide/en/security/current/volume-shadow-copy-deletion-via-powershell.html
@@ -3864,6 +3875,7 @@ https://www.publicnow.com/view/EB87DB49C654D9B63995FAD4C9DE3D3CC4F6C3ED?16716348
 https://www.pureid.io/dumping-abusing-windows-credentials-part-1/
 https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/yellow-liderc-ships-its-scripts-delivers-imaploader-malware.html
 https://www.pwndefend.com/2021/02/15/retrieving-passwords-from-veeam-backup-servers/
+https://www.pwndefend.com/2022/01/07/log4shell-exploitation-and-hunting-on-vmware-horizon-cve-2021-44228/
 https://www.pwndefend.com/2023/03/15/the-long-game-persistent-hash-theft/
 https://www.py2exe.org/
 https://www.python.org/dev/peps/pep-0249/#exceptions
@@ -3916,6 +3928,7 @@ https://www.securonix.com/blog/detecting-microsoft-msdt-dogwalk/
 https://www.securonix.com/blog/seolurker-attack-campaign-uses-seo-poisoning-fake-google-ads-to-install-malware/
 https://www.sekoia.io/en/hunting-and-detecting-cobalt-strike/
 https://www.sentinelone.com/blog/detecting-dsrm-account-misconfigurations/
+https://www.sentinelone.com/blog/from-the-front-linesunsigned-macos-orat-malware-gambles-for-the-win/
 https://www.sentinelone.com/blog/how-offensive-actors-use-applescript-for-attacking-macos/
 https://www.sentinelone.com/blog/living-off-windows-defender-lockbit-ransomware-sideloads-cobalt-strike-through-microsoft-security-tool
 https://www.sentinelone.com/blog/living-off-windows-defender-lockbit-ransomware-sideloads-cobalt-strike-through-microsoft-security-tool/
