@@ -172,6 +172,7 @@ https://attackerkb.com/topics/2faW2CxJgQ/cve-2023-4966
 https://attackerkb.com/topics/Bkij5kK1qK/cve-2022-21587/rapid7-analysis
 https://attackerkb.com/topics/SSTk336Tmf/cve-2024-3400/rapid7-analysis
 https://awakesecurity.com/blog/threat-hunting-for-paexec/
+https://awscli.amazonaws.com/v2/documentation/api/2.14.0/reference/account/enable-region.html
 https://bad-jubies.github.io/RCE-NOW-WHAT/
 https://badoption.eu/blog/2023/01/31/code_c2.html
 https://bazaar.abuse.ch/browse/signature/RaspberryRobin/
@@ -190,6 +191,7 @@ https://blog.3or.de/hunting-dns-server-level-plugin-dll-injection.html
 https://blog.3or.de/mimilib-dhcp-server-callout-dll-injection.html
 https://blog.alsid.eu/dcshadow-explained-4510f52fc19d
 https://blog.alyac.co.kr/1901
+https://blog.appsecco.com/kubernetes-namespace-breakout-using-insecure-host-path-volume-part-1-b382f2a6e216
 https://blog.aquasec.com/container-security-tnt-container-attack
 https://blog.assetnote.io/2021/11/02/sitecore-rce/
 https://blog.assetnote.io/2022/09/14/rce-in-bitbucket-server/
@@ -478,6 +480,7 @@ https://docs.djangoproject.com/en/1.11/topics/logging/#django-security
 https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners#about-self-hosted-runners
 https://docs.github.com/en/code-security/dependabot/dependabot-alerts/about-dependabot-alerts
 https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise
+https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise#migration
 https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise#private_repository_forking
 https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise#ssh_certificate_authority
 https://docs.github.com/en/enterprise-cloud@latest/code-security/secret-scanning/about-secret-scanning
@@ -1140,6 +1143,7 @@ https://github.com/nasbench/EVTX-ETW-Resources/blob/f1b010ce0ee1b71e3024180de1a3
 https://github.com/nasbench/Misc-Research/blob/8ee690e43a379cbce8c9d61107442c36bd9be3d3/Other/Undocumented-Flags-Sdbinst.md
 https://github.com/nasbench/Misc-Research/blob/b20da2336de0f342d31ef4794959d28c8d3ba5ba/ETW/Microsoft-Windows-Kernel-General.md
 https://github.com/nasbench/Misc-Research/blob/d114d6a5e0a437d3818e492ef9864367152543e7/Other/Persistence-Via-RegisterAppRestart-Shim.md
+https://github.com/nasbench/Misc-Research/blob/fc46f6da34ff7e0076da28fd3e66d6e1100f1c2f/ETW/Microsoft-Windows-SMBClient.md
 https://github.com/nasbench/Misc-Research/tree/b9596e8109dcdb16ec353f316678927e507a5b8d/LOLBINs/Winget
 https://github.com/nathan31337/Splunk-RCE-poc/
 https://github.com/nccgroup/redsnarf/blob/35949b30106ae543dc6f2bc3f1be10c6d9a8d40e/redsnarf.py
@@ -1154,6 +1158,7 @@ https://github.com/Neo23x0/Raccine/blob/20a569fa21625086433dcce8bb2765d0ea08dcb6
 https://github.com/Neo23x0/signature-base/blob/615bf1f6bac3c1bdc417025c40c073e6c2771a76/yara/gen_susp_lnk_files.yar#L19
 https://github.com/Neo23x0/sysmon-config/blob/3f808d9c022c507aae21a9346afba4a59dd533b9/sysmonconfig-export-block.xml#L1326
 https://github.com/netero1010/EDRSilencer
+https://github.com/netero1010/EDRSilencer/blob/0e73a7037ec65c52894d8208e6f605a7da0a34a6/EDRSilencer.c
 https://github.com/netero1010/TrustedPath-UACBypass-BOF
 https://github.com/NetSPI/aws_consoler
 https://github.com/NetSPI/PowerUpSQL
@@ -1688,6 +1693,7 @@ https://github.com/Yaxser/Backstab
 https://github.com/yeyintminthuhtut/Malleable-C2-Profiles-Collection/
 https://github.com/YfryTchsGD/Log4jAttackSurface
 https://github.com/Ylianst/MeshAgent
+https://github.com/Ylianst/MeshAgent/blob/52cf129ca43d64743181fbaf940e0b4ddb542a37/modules/win-dispatcher.js#L173
 https://github.com/Ylianst/MeshAgent/blob/52cf129ca43d64743181fbaf940e0b4ddb542a37/modules/win-info.js#L55
 https://github.com/zcgonvh/EfsPotato
 https://github.com/zcgonvh/NTDSDumpEx
@@ -1884,6 +1890,7 @@ https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defen
 https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference
 https://learn.microsoft.com/en-us/dotnet/api/microsoft.hpc.scheduler.store.cx509enrollmentwebclassfactoryclass?view=hpc-sdk-5.1.6115
 https://learn.microsoft.com/en-us/dotnet/api/system.appdomain.load?view=net-7.0
+https://learn.microsoft.com/en-us/dotnet/api/system.diagnostics.eventing.reader.eventlogsession.clearlog?view=windowsdesktop-9.0&viewFallbackFrom=dotnet-plat-ext-5.0#System_Diagnostics_Eventing_Reader_EventLogSession_ClearLog_System_String_
 https://learn.microsoft.com/en-us/dotnet/api/system.net.webclient.downloadfile?view=net-8.0
 https://learn.microsoft.com/en-us/dotnet/api/system.net.webclient.downloadstring?view=net-8.0
 https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography?view=net-8.0
@@ -2022,6 +2029,7 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/dd348773(v=ws.10)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731033(v=ws.11)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731620(v=ws.11)
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731935(v=ws.11)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc742107(v=ws.11)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc771151(v=ws.11)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh875578(v=ws.11)
@@ -2050,6 +2058,7 @@ https://learn.microsoft.com/en-us/troubleshoot/windows-server/windows-security/k
 https://learn.microsoft.com/en-us/troubleshoot/windows-server/windows-security/prevent-windows-store-lm-hash-password
 https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v
 https://learn.microsoft.com/en-us/visualstudio/deployment/how-to-configure-the-clickonce-trust-prompt-behavior
+https://learn.microsoft.com/en-us/windows-hardware/customize/desktop/unattend/microsoft-windows-terminalservices-rdp-winstationextensions-securitylayer
 https://learn.microsoft.com/en-us/windows-hardware/customize/desktop/unattend/security-malware-windows-defender-threatseveritydefaultaction
 https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/powercfg-command-line-options
 https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/dtrace
@@ -2096,6 +2105,7 @@ https://learn.microsoft.com/en-us/windows/package-manager/winget/source
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/deployment/appcontrol-deployment-guide
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/deployment/deploy-appcontrol-policies-with-script
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/applocker/using-event-viewer-with-applocker
+https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/applocker/what-is-applocker
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/design/applications-that-can-bypass-wdac
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/operations/event-tag-explanations
 https://learn.microsoft.com/en-us/windows/security/identity-protection/virtual-smart-cards/virtual-smart-card-tpmvscmgr
@@ -2275,6 +2285,7 @@ https://lolbas-project.github.io/lolbas/OtherMSBinaries/Squirrel/
 https://lolbas-project.github.io/lolbas/OtherMSBinaries/Te/
 https://lolbas-project.github.io/lolbas/OtherMSBinaries/Tracker/
 https://lolbas-project.github.io/lolbas/OtherMSBinaries/VisualUiaVerifyNative/
+https://lolbas-project.github.io/lolbas/OtherMSBinaries/Vshadow/
 https://lolbas-project.github.io/lolbas/OtherMSBinaries/VSIISExeLauncher/
 https://lolbas-project.github.io/lolbas/OtherMSBinaries/Vsjitdebugger/
 https://lolbas-project.github.io/lolbas/OtherMSBinaries/Wfc/
@@ -2530,6 +2541,7 @@ https://posts.specterops.io/mavinject-exe-functionality-deconstructed-c29ab2cf5c
 https://posts.specterops.io/passwordless-persistence-and-privilege-escalation-in-azure-98a01310be3f
 https://posts.specterops.io/requesting-azure-ad-request-tokens-on-azure-ad-joined-machines-for-browser-sso-2b0409caad30
 https://posts.specterops.io/shhmon-silencing-sysmon-via-driver-unload-682b5be57650
+https://posts.specterops.io/the-tale-of-settingcontent-ms-files-f1ea253e4d39
 https://powersploit.readthedocs.io/en/latest/Persistence/Install-SSP/
 https://powersploit.readthedocs.io/en/latest/Privesc/Write-HijackDll/
 https://powersploit.readthedocs.io/en/stable/Recon/README
@@ -2599,6 +2611,7 @@ https://research.checkpoint.com/ryuk-ransomware-targeted-campaign-break/
 https://research.eye.security/sharepoint-under-siege/
 https://research.kudelskisecurity.com/2023/06/12/cve-2023-27997-fortigate-ssl-vpn/
 https://research.nccgroup.com/2018/05/18/emissary-panda-a-potential-new-malicious-tool/
+https://research.nccgroup.com/2018/11/22/turla-png-dropper-is-back/
 https://research.nccgroup.com/2020/06/23/wastedlocker-a-new-ransomware-variant-developed-by-the-evil-corp-group/
 https://research.nccgroup.com/2020/07/10/rift-citrix-adc-vulnerabilities-cve-2020-8193-cve-2020-8195-and-cve-2020-8196-intelligence/
 https://research.nccgroup.com/2021/01/12/abusing-cloud-services-to-fly-under-the-radar/
@@ -3729,6 +3742,7 @@ https://www.kroll.com/en/insights/publications/cyber/new-m365-business-email-com
 https://www.lexjansen.com/sesug/1993/SESUG93035.pdf
 https://www.linkedin.com/feed/update/urn:li:activity:7047435754834198529/
 https://www.linkedin.com/feed/update/urn:li:activity:7282295814792605698/
+https://www.linkedin.com/posts/kevin-beaumont-security_ive-been-assisting-a-few-orgs-hit-with-successful-activity-7268055739116445701-xxjZ/
 https://www.linkedin.com/posts/kleiton-kurti_github-kleiton0x00redditc2-abusing-reddit-activity-7009939662462984192-5DbI/?originalSubdomain=al
 https://www.linkedin.com/pulse/exploit-available-dangerous-ms-office-rce-vuln-called-thebenygreen-
 https://www.linkedin.com/pulse/guntior-story-advanced-bootkit-doesnt-rely-windows-disk-baranov-wue8e/
@@ -3842,6 +3856,7 @@ https://www.netspi.com/blog/technical/network-penetration-testing/decrypting-iis
 https://www.netspi.com/blog/technical/network-penetration-testing/sql-server-persistence-part-1-startup-stored-procedures/
 https://www.nextron-systems.com/2021/08/16/antivirus-event-analysis-cheat-sheet-v1-8-2/
 https://www.nextron-systems.com/2021/10/24/monero-mining-pool-fqdns/
+https://www.nextron-systems.com/2025/07/29/detecting-the-most-popular-mitre-persistence-method-registry-run-keys-startup-folder/
 https://www.nextron-systems.com/?s=antivirus
 https://www.nirsoft.net/utils/nircmd.html
 https://www.nirsoft.net/utils/nircmd2.html#using
@@ -3924,6 +3939,7 @@ https://www.secura.com/blog/zero-logon
 https://www.secureworks.com/blog/ransomware-as-a-distraction
 https://www.secureworks.com/research/bronze-butler-targets-japanese-businesses
 https://www.secureworks.com/research/shadowpad-malware-analysis
+https://www.security.com/threat-intelligence/medusa-ransomware-attacks
 https://www.securitynewspaper.com/2016/11/23/technical-teardown-exploit-malware-hwp-files/
 https://www.securitynewspaper.com/2017/03/20/attackers-leverage-excel-powershell-dns-latest-non-malware-attack/
 https://www.securonix.com/blog/cve-2022-26809-remote-procedure-call-runtime-remote-code-execution-vulnerability-and-coverage/
