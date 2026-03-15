@@ -325,6 +325,7 @@ https://bunnyinside.com/?term=f71e8cb9c76a
 https://businessinsights.bitdefender.com/deep-dive-into-a-backdoordiplomacy-attack-a-study-of-an-attackers-toolkit
 https://car.mitre.org/wiki/CAR-2013-05-002
 https://car.mitre.org/wiki/CAR-2016-04-005
+https://cardinalops.com/blog/the-art-of-anomaly-hunting-patterns-detection/
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/service_registry_permissions_weakness_check/
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/task_scheduling/
 https://chromeenterprise.google/policies/?policy=DnsOverHttpsMode
@@ -335,6 +336,7 @@ https://cloud.google.com/access-context-manager/docs/audit-logging
 https://cloud.google.com/binary-authorization
 https://cloud.google.com/blog/topics/threat-intelligence/alphv-ransomware-backup/
 https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger/
+https://cloud.google.com/blog/topics/threat-intelligence/unc3944-targets-saas-applications
 https://cloud.google.com/dlp/docs/reference/rest/v2/projects.content/reidentify
 https://cloud.google.com/dns/docs/reference/v1/managedZones
 https://cloud.google.com/iam/docs/reference/rest/v1/projects.serviceAccounts
@@ -448,6 +450,7 @@ https://docs.aws.amazon.com/AmazonECS/latest/APIReference/API_RegisterTaskDefini
 https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-iam-roles.html
 https://docs.aws.amazon.com/AmazonRDS/latest/APIReference/API_DeleteDBCluster.html
 https://docs.aws.amazon.com/AmazonRDS/latest/APIReference/API_ModifyDBCluster.html
+https://docs.aws.amazon.com/AmazonS3/latest/API/API_DeleteBucket.html
 https://docs.aws.amazon.com/AmazonS3/latest/API/API_Operations.html
 https://docs.aws.amazon.com/AmazonS3/latest/API/API_PutBucketEncryption.html
 https://docs.aws.amazon.com/AmazonS3/latest/API/API_PutBucketLogging.html
@@ -485,6 +488,7 @@ https://docs.fortinet.com/document/fortigate/7.6.4/fortios-log-message-reference
 https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners#about-self-hosted-runners
 https://docs.github.com/en/code-security/dependabot/dependabot-alerts/about-dependabot-alerts
 https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise
+https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise#migration
 https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise#private_repository_forking
 https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise#ssh_certificate_authority
 https://docs.github.com/en/enterprise-cloud@latest/code-security/secret-scanning/about-secret-scanning
@@ -798,6 +802,7 @@ https://gist.githubusercontent.com/bohops/0cc6586f205f3691e04a1ebf1806aabd/raw/b
 https://gist.githubusercontent.com/MichaelKoczwara/12faba9c061c12b5814b711166de8c2f/raw/e2068486692897b620c25fde1ea258c8218fe3d3/history.txt
 https://git.libssh.org/projects/libssh.git/tree/src/curve25519.c#n420
 https://github.com/00derp/EquationGroupLeak/search?utf8=%E2%9C%93&q=dll_u&type=
+https://github.com/0xBruno/WSUSploit.NET/tree/e239bce9d6b5f46a346e1e4c4d5e0a2a20d5c639
 https://github.com/0xdeadbeefJERKY/PowerSploit/blob/8690399ef70d2cad10213575ac67e8fa90ddf7c3/Persistence/Persistence.psm1
 https://github.com/0xf4n9x/CVE-2022-46169
 https://github.com/0xorOne/nuclei-templates/blob/2fef4270ec6e5573d0a1732cb18bcfc4b1580a88/http/cves/2023/CVE-2023-46747.yaml
@@ -1140,6 +1145,7 @@ https://github.com/MicrosoftDocs/windows-itpro-docs/blob/40fe118976734578f83e5e8
 https://github.com/MicrosoftDocs/windows-itpro-docs/commit/937db704b9148e9cee7c7010cad4d00ce9c4fdad
 https://github.com/mitre-attack/bzar#indicators-for-attck-execution
 https://github.com/mitre-attack/bzar#indicators-for-attck-persistence
+https://github.com/msanft/CVE-2025-55182
 https://github.com/mttaggart/OffensiveNotion
 https://github.com/mttaggart/quasar
 https://github.com/murataydemir/CVE-2021-27905
@@ -1578,6 +1584,7 @@ https://github.com/rsmudge/Malleable-C2-Profiles/blob/26323784672913923d20c5a638
 https://github.com/rsmudge/Malleable-C2-Profiles/blob/26323784672913923d20c5a638c6ca79459e8529/normal/ocsp.profile
 https://github.com/rsmudge/Malleable-C2-Profiles/blob/26323784672913923d20c5a638c6ca79459e8529/normal/onedrive_getonly.profile
 https://github.com/rsp/scripts/blob/c8bb272d68164a9836e4f273d8f924927f39b8c6/externalip-benchmark.md
+https://github.com/rtecCyberSec/SpeechRuntimeMove
 https://github.com/rvrsh3ll/Misc-Powershell-Scripts/blob/6f23bb41f9675d7e2d32bacccff75e931ae00554/OfficeMemScraper.ps1
 https://github.com/S12cybersecurity/RDPCredentialStealer
 https://github.com/S12cybersecurity/RDPCredentialStealer/blob/1b8947cdd065a06c1b62e80967d3c7af895fcfed/APIHookInjectorBin/APIHookInjectorBin/Inject.h#L25
@@ -1717,6 +1724,7 @@ https://giuliocomi.blogspot.com/2019/10/abusing-windows-10-narrators-feedback.ht
 https://global.ptsecurity.com/analytics/pt-esc-threat-intelligence/darkhotel-a-cluster-of-groups-united-by-common-techniques
 https://go.recordedfuture.com/hubfs/reports/mtp-2021-0914.pdf
 https://goo.gl/PsqrhT
+https://goodworkaround.com/2022/02/15/digging-into-azure-ad-certificate-based-authentication/
 https://googleprojectzero.blogspot.com/2019/08/implant-teardown.html
 https://grafana.com/blog/2021/12/07/grafana-8.3.1-8.2.7-8.1.8-and-8.0.7-released-with-high-severity-security-fix/
 https://grep.app/search?q=winpwn&filter[repo][0]=redcanaryco/atomic-red-team
@@ -1915,6 +1923,7 @@ https://learn.microsoft.com/en-us/dotnet/core/diagnostics/dotnet-dump#dotnet-dum
 https://learn.microsoft.com/en-us/dotnet/core/runtime-config/debugging-profiling
 https://learn.microsoft.com/en-us/dotnet/framework/tools/installutil-exe-installer-tool
 https://learn.microsoft.com/en-us/dotnet/framework/tools/regsvcs-exe-net-services-installation-tool
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#appid-uri-added-modified-or-removed
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#application-authentication-flows
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#application-configuration-changes
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#end-user-consent
@@ -1974,6 +1983,7 @@ https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rprn/4464eaf0-f
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rprn/d42db7d5-f141-4466-8f47-0a4be14e2fc1
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rrp/0fa3191d-bb79-490a-81bd-54c2601b7a78
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-srvs/02b1f559-fda2-4ba3-94c2-806eb2777183
+https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-wkst/55118c55-2122-4ef9-8664-0c1ff9e168f3
 https://learn.microsoft.com/en-us/outlook/troubleshoot/security/information-about-email-security-settings
 https://learn.microsoft.com/en-us/powershell/high-performance-computing/mpiexec?view=hpc19-ps
 https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-adcomputer
@@ -2037,6 +2047,7 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/se
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4701
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4706
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4743
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4771
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4794
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-5140
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-6281
@@ -2405,6 +2416,7 @@ https://mikefrobbins.com/2017/06/15/simple-obfuscation-with-powershell-using-bas
 https://mn3m.info/posts/suid-vs-capabilities/
 https://mobile.twitter.com/0gtweet/status/1564131230941122561
 https://modexp.wordpress.com/2019/08/30/minidumpwritedump-via-com-services-dll/
+https://mostafayahiax.medium.com/hunting-for-amsi-bypassing-methods-9886dda0bf9d
 https://mp.weixin.qq.com/s/wX9TMXl1KVWwB_k6EZOklw
 https://mp.weixin.qq.com/s?__biz=Mzg3NDU2MTg0Ng==&mid=2247484117&idx=1&sn=2fdab8cbe4b873f8dd8abb35d935d186
 https://mpgn.gitbook.io/crackmapexec/smb-protocol/authentication/checking-credentials-local
@@ -3403,6 +3415,7 @@ https://vulmon.com/exploitdetails?qidtp=exploitdb&qid=48224
 https://vulncheck.com/blog/real-world-cve-2023-43261
 https://vx-underground.org/archive/Symantec/windows-vista-network-attack-07-en.pdf
 https://wazuh.com/blog/detecting-xll-files-used-for-dropping-fin7-jssloader-with-wazuh/
+https://wazuh.com/blog/how-to-detect-meshagent-with-wazuh/
 https://web.archive.org/web/20160727113019/https://answers.microsoft.com/en-us/protect/forum/mse-protect_scanning/microsoft-antimalware-has-removed-history-of/f15af6c9-01a9-4065-8c6c-3f2bdc7de45e
 https://web.archive.org/web/20160928212230/https://www.adaptforward.com/2016/09/using-netshell-to-execute-evil-dlls-and-persist-on-a-host/
 https://web.archive.org/web/20170319121015/http://www.threatgeek.com/2017/03/widespread-exploitation-attempts-using-cve-2017-5638.html
@@ -3724,6 +3737,7 @@ https://www.huntress.com/blog/a-catastrophe-for-control-understanding-the-screen
 https://www.huntress.com/blog/attacking-mssql-servers
 https://www.huntress.com/blog/confluence-to-cerber-exploitation-of-cve-2023-22518-for-ransomware-deployment
 https://www.huntress.com/blog/critical-vulnerabilities-in-papercut-print-management-software
+https://www.huntress.com/blog/exploitation-of-windows-server-update-services-remote-code-execution-vulnerability
 https://www.huntress.com/blog/moveit-transfer-critical-vulnerability-rapid-response
 https://www.huntress.com/blog/slashandgrab-screen-connect-post-exploitation-in-the-wild-cve-2024-1709-cve-2024-1708
 https://www.huntress.com/blog/the-unwanted-guest
@@ -4002,6 +4016,7 @@ https://www.sentinelone.com/labs/blackcat-ransomware-highly-configurable-rust-dr
 https://www.sentinelone.com/labs/hermetic-wiper-ukraine-under-attack/
 https://www.sentinelone.com/labs/inside-malicious-windows-apps-for-malware-deployment/
 https://www.sentinelone.com/labs/lockbit-ransomware-side-loads-cobalt-strike-beacon-with-legitimate-vmware-utility/
+https://www.sentinelone.com/labs/ranzy-ransomware-better-encryption-among-new-features-of-thunderx-derivative/
 https://www.sentinelone.com/labs/wading-through-muddy-waters-recent-activity-of-an-iranian-state-sponsored-threat-actor/
 https://www.sentinelone.com/labs/wip26-espionage-threat-actors-abuse-cloud-infrastructure-in-targeted-telco-attacks/
 https://www.sentinelone.com/wp-content/uploads/pdf-gen/1630910064/20-common-tools-techniques-used-by-macos-threat-actors-malware.pdf
@@ -4022,6 +4037,7 @@ https://www.splunk.com/en_us/blog/security/breaking-the-chain-defending-against-
 https://www.splunk.com/en_us/blog/security/darkside-ransomware-splunk-threat-update-and-detections.html
 https://www.splunk.com/en_us/blog/security/follina-for-protocol-handlers.html
 https://www.splunk.com/en_us/blog/security/inno-setup-malware-redline-stealer-campaign.html
+https://www.splunk.com/en_us/blog/security/msix-weaponization-threat-detection-splunk.html
 https://www.sprocketsecurity.com/resources/crossing-the-log4j-horizon-a-vulnerability-with-no-return
 https://www.swascan.com/cactus-ransomware-malware-analysis/
 https://www.sygnia.co/golden-saml-advisory
@@ -4271,9 +4287,11 @@ https://www.zscaler.com/blogs/security-research/onenote-growing-threat-malware-d
 https://www.zscaler.com/blogs/security-research/steal-it-campaign
 https://www.zscaler.com/blogs/security-research/technical-analysis-crytox-ransomware
 https://www.zscaler.com/blogs/security-research/unintentional-leak-glimpse-attack-vectors-apt37
+https://x.com/0x534c/status/1944694507787710685
 https://x.com/_st0pp3r_/status/1742203752361128162?s=20
 https://x.com/cyb3rops/status/1862406110365245506
 https://x.com/defusedcyber/status/1971492272966598683
+https://x.com/JangPr0/status/1932034543026065833
 https://x.com/nas_bench/status/1868639048484425963
 https://x.com/NullSecurityX/status/1937444064867029179
 https://x.com/russianpanda9xx/status/1940831134759506029
