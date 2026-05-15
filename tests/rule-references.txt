@@ -329,6 +329,7 @@ https://car.mitre.org/wiki/CAR-2013-05-002
 https://car.mitre.org/wiki/CAR-2016-04-005
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/service_registry_permissions_weakness_check/
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/task_scheduling/
+https://cert.gov.ua/article/6277849
 https://chromeenterprise.google/policies/?policy=DnsOverHttpsMode
 https://chromium.googlesource.com/chromium/chromium/+/master/content/public/common/content_switches.cc
 https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus/
@@ -701,6 +702,7 @@ https://docs.paloaltonetworks.com/cortex/cortex-xdr/cortex-xdr-analytics-alert-r
 https://docs.python.org/2/library/simplehttpserver.html
 https://docs.python.org/3/library/site.html
 https://docs.python.org/3/using/cmdline.html#cmdoption-c
+https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/4/html/reference_guide/s3-proc-sys-kernel
 https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/8/html/configuring_and_managing_networking/getting-started-with-nftables_configuring-and-managing-networking
 https://docs.spring.io/spring-security/site/docs/current/api/overview-tree.html
 https://documentation.pdq.com/PDQDeploy/13.0.3.0/index.html?windows-services.htm
@@ -1094,6 +1096,7 @@ https://github.com/Kevin-Robertson/Inveigh/blob/29d9e3c3a625b3033cdaf4683efaafad
 https://github.com/Kevin-Robertson/Inveigh/blob/29d9e3c3a625b3033cdaf4683efaafadcecb9007/Inveigh/Support/Output.cs
 https://github.com/Kevin-Robertson/Powermad
 https://github.com/keyboardcrunch/SentinelOne-ATTACK-Queries/blob/6a228d23eefe963ca81f2d52f94b815f61ef5ee0/Tactics/DefenseEvasion.md#t1055-process-injection
+https://github.com/kh4sh3i/CVE-2025-32463/blob/81bb430f84fa2089224733c3ed4bfa434c197ad4/exploit.sh
 https://github.com/kleiton0x00/RedditC2
 https://github.com/klinix5/InstallerFileTakeOver
 https://github.com/klsecservices/Publications/blob/657deb6a6eb6e00669afd40173f425fb49682eaa/Incident-Response-Analyst-Report-2020.pdf
@@ -1183,6 +1186,7 @@ https://github.com/NetSPI/PowerUpSQL
 https://github.com/nettitude/Invoke-PowerThIEf
 https://github.com/nettitude/SharpWSUS
 https://github.com/Nightmare-Eclipse/RedSun
+https://github.com/Nightmare-Eclipse/RedSun/blob/7456cc8cf066f5e5fc6cdf7d3272a466ebd6b2f6/RedSun.cpp#L605
 https://github.com/nknorg/nkn-sdk-go
 https://github.com/nsacyber/Event-Forwarding-Guidance/tree/6e92d622fa33da911f79e7633da4263d632f9624/Events
 https://github.com/offsecginger/koadic/blob/457f9a3ff394c989cdb4c599ab90eb34fb2c762c/data/stager/js/stdlib.js
@@ -1666,6 +1670,7 @@ https://github.com/topotam/PetitPotam
 https://github.com/topotam/PetitPotam/blob/d83ac8f2dd34654628c17490f99106eb128e7d1e/PetitPotam/PetitPotam.cpp
 https://github.com/trustedsec/SysmonCommunityGuide/blob/adcdfee20999f422b974c8d4149bf4c361237db7/chapters/file-stream-creation-hash.md
 https://github.com/Twigonometry/Cybersecurity-Notes/blob/c875b0f52df7d2c7a870e75e1f0c2679d417931d/Writeups/Hack%20the%20Box/Boxes/Optimum/10%20-%20Website.md
+https://github.com/TwoSevenOneT/WSASS
 https://github.com/Tylous/ZipExec
 https://github.com/tyranid/DotNetToJScript
 https://github.com/usnistgov/macos_security/blob/932a51f3e819dd3e02ebfcf3ef433cfffafbe28b/rules/os/os_firmware_password_require.yaml
@@ -1782,6 +1787,7 @@ https://image.slidesharecdn.com/kheirkhabarovoffzonefinal-181117201458/95/huntin
 https://image.slidesharecdn.com/zeronights2017kheirkhabarov-171118103000/75/hunting-for-credentials-dumping-in-windows-environment-57-2048.jpg?cb=1666035799
 https://imagemagick.org/
 https://in.security/an-intro-into-abusing-and-identifying-wmi-event-subscriptions-for-persistence/
+https://informationsecuritybuzz.com/the-real-danger-behind-a-simple-windows-shortcut/
 https://infosec.exchange/@sbousseaden/109542254124022664
 https://infosecwriteups.com/amsi-bypass-new-way-2023-d506345944e9
 https://inquest.net/blog/2018/06/22/a-look-at-formbook-stealer
@@ -2132,6 +2138,7 @@ https://learn.microsoft.com/en-us/windows-server/identity/software-restriction-p
 https://learn.microsoft.com/en-us/windows-server/security/credentials-protection-and-management/configuring-additional-lsa-protection
 https://learn.microsoft.com/en-us/windows/client-management/client-tools/quick-assist#disable-quick-assist-within-your-organization
 https://learn.microsoft.com/en-us/windows/client-management/manage-recall
+https://learn.microsoft.com/en-us/windows/client-management/mdm/policy-csp-deviceguard
 https://learn.microsoft.com/en-us/windows/compatibility/ntvdm-and-16-bit-app-support
 https://learn.microsoft.com/en-us/windows/msix/package/package-support-framework
 https://learn.microsoft.com/en-us/windows/msix/package/unsigned-package
@@ -2351,6 +2358,7 @@ https://man.openbsd.org/ssh_config#ProxyCommand
 https://man7.org/linux/man-pages/man1/ncat.1.html
 https://man7.org/linux/man-pages/man1/passwd.1.html
 https://man7.org/linux/man-pages/man2/mknod.2.html
+https://man7.org/linux/man-pages/man2/personality.2.html
 https://man7.org/linux/man-pages/man7/bpf-helpers.7.html
 https://man7.org/linux/man-pages/man8/getcap.8.html
 https://man7.org/linux/man-pages/man8/kmod.8.html
@@ -2450,6 +2458,7 @@ https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-26809
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-30190
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41120
 https://my.f5.com/manage/s/article/K589
+https://naikordian.github.io/blog/posts/brute-force-aws-console/
 https://nasbench.medium.com/a-deep-dive-into-rundll32-exe-642344b41e90
 https://nasbench.medium.com/finding-forensic-goodness-in-obscure-windows-event-logs-60e978ea45a3
 https://nasbench.medium.com/lolbined-using-kaspersky-endpoint-security-kes-installer-to-execute-arbitrary-commands-1c999f1b7fea
@@ -2514,6 +2523,7 @@ https://onapsis.com/blog/active-exploitation-of-sap-vulnerability-cve-2025-31324
 https://onedrive.live.com/view.aspx?resid=D026B4699190F1E6!2843&ithint=file%2cpptx&app=PowerPoint&authkey=!AMvCRTKB_V1J5ow
 https://opencanary.readthedocs.io/en/latest/starting/configuration.html#services-configuration
 https://outflank.nl/blog/2018/01/16/hunting-for-evil-detect-macros-being-executed/
+https://outpost24.com/blog/crushftp-auth-bypass-vulnerability/
 https://owasp.org/www-community/vulnerabilities/Expression_Language_Injection
 https://owasp.org/www-community/vulnerabilities/XML_External_Entity_(XXE)_Processing
 https://owasp.org/www-pdf-archive/Shellshock_-_Tudor_Enache.pdf
@@ -2568,6 +2578,7 @@ https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0708
 https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1388
 https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1472
 https://portmap.io/
+https://portswigger.net/daily-swig/vmware-horizon-under-attack-as-china-based-ransomware-group-targets-log4j-vulnerability
 https://portswigger.net/web-security/cross-site-scripting/contexts
 https://positive.security/blog/ms-officecmd-rce
 https://posts.slayerlabs.com/living-off-the-land/#gathernetworkinfovbs
@@ -3487,6 +3498,7 @@ https://web.archive.org/web/20230329172447/https://blog.menasec.net/2019/02/thre
 https://web.archive.org/web/20230409194125/https://blog.menasec.net/2019/03/threat-hunting-25-scheduled-tasks-for.html
 https://web.archive.org/web/20230420013146/http://security-research.dyndns.org/pub/slides/FIRST2017/FIRST-2017_Tom-Ueltschi_Sysmon_FINAL_notes.pdf
 https://web.archive.org/web/20230726144748/https://blog.thickmints.dev/mintsights/detecting-rogue-rdp/
+https://web.archive.org/web/20230929023836/http://powershellhelp.space/commands/set-netfirewallrule-psv5.php
 https://web.archive.org/web/20231210115125/http://www.xuetr.com/
 https://web.archive.org/web/20231221193106/https://www.swascan.com/cactus-ransomware-malware-analysis/
 https://web.archive.org/web/20231230220738/https://www.lunasec.io/docs/blog/log4j-zero-day/
@@ -3718,6 +3730,7 @@ https://www.fortinet.com/blog/threat-research/enter-the-darkgate-new-cryptocurre
 https://www.fortinet.com/blog/threat-research/konni-campaign-distributed-via-malicious-document
 https://www.fortinet.com/blog/threat-research/ms-office-files-involved-in-emotet-trojan-campaign-pt-one
 https://www.fortinet.com/blog/threat-research/new-netwire-rat-variant-spread-by-phishing
+https://www.fortinet.com/blog/threat-research/newly-discovered-function-in-darkside-ransomware-variant-targets-disk-partitions
 https://www.fortinet.com/blog/threat-research/stomping-shadow-copies-a-second-look-into-deletion-methods
 https://www.fortinet.com/blog/threat-research/ursnif-variant-spreading-word-document.html
 https://www.fortinet.com/content/dam/fortinet/assets/analyst-reports/ar-qakbot.pdf
@@ -4076,6 +4089,7 @@ https://www.thestack.technology/security-experts-call-for-incident-response-exer
 https://www.trellix.com/en-sg/about/newsroom/stories/threat-labs/lockergoga-ransomware-family-used-in-targeted-attacks.html
 https://www.trellix.com/en-us/about/newsroom/stories/research/beyond-file-search-a-novel-method.html
 https://www.trendmicro.com/content/dam/trendmicro/global/en/research/22/h/ransomware-actor-abuses-genshin-impact-anti-cheat-driver-to-kill-antivirus/Genshin%20Impact%20Figure%2010.jpg
+https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/b/lockbit-attempts-to-stay-afloat-with-a-new-version/technical-appendix-lockbit-ng-dev-analysis.pdf
 https://www.trendmicro.com/en_id/research/22/e/uncovering-a-kingminer-botnet-attack-using-trend-micro-managed-x.html
 https://www.trendmicro.com/en_no/research/24/b/cve202421412-water-hydra-targets-traders-with-windows-defender-s.html
 https://www.trendmicro.com/en_ph/research/20/k/new-macos-backdoor-connected-to-oceanlotus-surfaces.html
@@ -4200,6 +4214,7 @@ https://www.virustotal.com/gui/file/60bcd645450e4c846238cf0e7226dc40c84c96eba99f
 https://www.virustotal.com/gui/file/69fe77dd558e281621418980040e2af89a2547d377d0f2875502005ce22bc95c
 https://www.virustotal.com/gui/file/6d3ab9e729bb03ae8ae3fcd824474c5052a165de6cb4c27334969a542c7b261d/detection
 https://www.virustotal.com/gui/file/6f0f20da34396166df352bf301b3c59ef42b0bc67f52af3d541b0161c47ede05
+https://www.virustotal.com/gui/file/71e35aef03099cd1f2d6446734273025a163597de93912df321ef118bf135238/
 https://www.virustotal.com/gui/file/720a7ee9f2178c70501d7e3f4bcc28a4f456e200486dbd401b25af6da3b4da62/content
 https://www.virustotal.com/gui/file/72f1a5476a845ea02344c9b7edecfe399f64b52409229edaf856fcb9535e3242
 https://www.virustotal.com/gui/file/7872d8845a332dce517adae9c3389fde5313ff2fed38c2577f3b498da786db68/behavior
@@ -4228,6 +4243,7 @@ https://www.virustotal.com/gui/file/c299063e3eae8ddc15839767e83b9808fd43418dc5a1
 https://www.virustotal.com/gui/file/c312c05ddbd227cbb08958876df2b69d0f7c1b09e5689eb9d93c5b357f63eff7
 https://www.virustotal.com/gui/file/c9f9f193409217f73cc976ad078c6f8bf65d3aabcf5fad3e5a47536d47aa6761
 https://www.virustotal.com/gui/file/cca0c1182ac114b44dc52dd2058fcd38611c20bb6b5ad84710681d38212f835a/
+https://www.virustotal.com/gui/file/d2a4f52a9923336f119a52e531bbb1e66f18322fd8efa9af1a64b94f4d36dc97
 https://www.virustotal.com/gui/file/d3fa64f63563fe958b75238742d1e473800cb5f49f5cb79d38d4aa3c93709026/behavior
 https://www.virustotal.com/gui/file/d4486b63512755316625230e0c9c81655093be93876e0d80732e7eeaf7d83476/content
 https://www.virustotal.com/gui/file/d5661009c461a8b20e1ad22f48609cc84dd90aee9182e026659dde4d46aaf25e/relations
@@ -4307,10 +4323,12 @@ https://www.zscaler.com/blogs/security-research/unintentional-leak-glimpse-attac
 https://x.com/0x534c/status/1944694507787710685
 https://x.com/_st0pp3r_/status/1742203752361128162?s=20
 https://x.com/cyb3rops/status/1862406110365245506
+https://x.com/cyberfeeddigest/status/1887041526397587859
 https://x.com/defusedcyber/status/1971492272966598683
 https://x.com/nas_bench/status/1868639048484425963
 https://x.com/NullSecurityX/status/1937444064867029179
 https://x.com/russianpanda9xx/status/1940831134759506029
+https://x.com/wietze/status/1958302556033065292?s=12
 https://x.com/yarden_shafir/status/1822667605175324787
 https://xmrig.com/docs/miner/command-line-options
 https://xz.aliyun.com/t/12175
